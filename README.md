@@ -9,6 +9,6 @@ keystrokes to the python console.
 
 ### Todos
 
-Fix the bugs and make it easier to use
-Actual keyboard emulation
-A GUI
+* Fix the bugs and make it easier to use
+* Actual keyboard emulation
+* A GUI
